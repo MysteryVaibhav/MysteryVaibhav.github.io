@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Kalra on Vaibhav</title>
+    <link>https://MysteryVaibhav.github.io/authors/a.-kalra/</link>
+    <description>Recent content in A. Kalra on Vaibhav</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Dec 2018 20:26:25 -0400</lastBuildDate>
+    
+	<atom:link href="https://MysteryVaibhav.github.io/authors/a.-kalra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Attend and Attack: Attention Guided Adversarial Attacks on Visual Question Answering Models</title>
+      <link>https://MysteryVaibhav.github.io/publication/attend/</link>
+      <pubDate>Mon, 10 Dec 2018 20:26:25 -0400</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/publication/attend/</guid>
+      <description>Workshop paper at NIPS 2018</description>
+    </item>
+    
+  </channel>
+</rss>

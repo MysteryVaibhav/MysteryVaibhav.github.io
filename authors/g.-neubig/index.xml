@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Neubig on Vaibhav</title>
+    <link>https://MysteryVaibhav.github.io/authors/g.-neubig/</link>
+    <description>Recent content in G. Neubig on Vaibhav</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Apr 2019 20:26:25 -0400</lastBuildDate>
+    
+	<atom:link href="https://MysteryVaibhav.github.io/authors/g.-neubig/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Improving Robustness of Machine Translation with Synthetic Noise</title>
+      <link>https://MysteryVaibhav.github.io/publication/robust_mtnt/</link>
+      <pubDate>Wed, 10 Apr 2019 20:26:25 -0400</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/publication/robust_mtnt/</guid>
+      <description>Short Paper at NAACL 2019</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Vaibhav</title>
+    <link>https://MysteryVaibhav.github.io/talk/</link>
+    <description>Recent content in Projects on Vaibhav</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://MysteryVaibhav.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Semantics to Understand Fake News</title>
+      <link>https://MysteryVaibhav.github.io/talk/cs/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/cs/</guid>
+      <description>Course Project for Computational Semantics</description>
+    </item>
+    
+    <item>
+      <title>Understanding Behavioral Markers in online Suicidal Videos</title>
+      <link>https://MysteryVaibhav.github.io/talk/mac/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/mac/</guid>
+      <description>Course Project for Multimodal Affective Computing</description>
+    </item>
+    
+    <item>
+      <title>[Personal] DeepWalk regularized Graph Auto Encoder</title>
+      <link>https://MysteryVaibhav.github.io/talk/rwr/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/rwr/</guid>
+      <description>Exploring Random Walk with Restarts for regularizing graph encoder representations.</description>
+    </item>
+    
+    <item>
+      <title>Adversarial Attacks on VQA models</title>
+      <link>https://MysteryVaibhav.github.io/talk/aavqa/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/aavqa/</guid>
+      <description>Course Project for Advanced Multimodal Machine Learning</description>
+    </item>
+    
+    <item>
+      <title>Machine Translation models for Low Resource Languages</title>
+      <link>https://MysteryVaibhav.github.io/talk/mt/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/mt/</guid>
+      <description>Course Project for Machine Translation: Sequence to Sequence Models</description>
+    </item>
+    
+    <item>
+      <title>End-to-End Speech Recognition System for Indian Languages</title>
+      <link>https://MysteryVaibhav.github.io/talk/dl/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/dl/</guid>
+      <description>Course Project for Introduction to Deep Learning</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Bilingual Induction using GANs</title>
+      <link>https://MysteryVaibhav.github.io/talk/nn4nlp/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/nn4nlp/</guid>
+      <description>Course Project for Neural Nets for NLP</description>
+    </item>
+    
+    <item>
+      <title>Explored neural and non-neural models for gene expression profiling</title>
+      <link>https://MysteryVaibhav.github.io/talk/iml/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/iml/</guid>
+      <description>Course Project for Introduction to Machine Learning</description>
+    </item>
+    
+    <item>
+      <title>Implemented HMM Word Alignment Model for en-fr translation</title>
+      <link>https://MysteryVaibhav.github.io/talk/anlp/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/anlp/</guid>
+      <description>Course Project for Algorithms for NLP</description>
+    </item>
+    
+    <item>
+      <title>[Personal] Space Shooter</title>
+      <link>https://MysteryVaibhav.github.io/talk/space_shooter/</link>
+      <pubDate>Sun, 25 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/space_shooter/</guid>
+      <description>A 3D Android game created using unity. Check it out on &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.Vaibhav&#34; target=&#34;_blank&#34;&gt;Play Store&lt;/a&gt;.</description>
+    </item>
+    
+    <item>
+      <title>[Personal] uMedia</title>
+      <link>https://MysteryVaibhav.github.io/talk/media/</link>
+      <pubDate>Sat, 26 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/media/</guid>
+      <description>Web application for recommeding songs and movies. Created during Yahoo HackU event.</description>
+    </item>
+    
+  </channel>
+</rss>

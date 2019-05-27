@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Huang on Vaibhav</title>
+    <link>https://MysteryVaibhav.github.io/authors/p.-huang/</link>
+    <description>Recent content in P. Huang on Vaibhav</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Oct 2018 20:26:25 -0400</lastBuildDate>
+    
+	<atom:link href="https://MysteryVaibhav.github.io/authors/p.-huang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ad-hoc Video Search with Discrete and Continuous Representations</title>
+      <link>https://MysteryVaibhav.github.io/publication/trecvid/</link>
+      <pubDate>Wed, 10 Oct 2018 20:26:25 -0400</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/publication/trecvid/</guid>
+      <description>Workshop paper at TRECVID 2018</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vaibhav</title>
+    <link>https://MysteryVaibhav.github.io/</link>
+    <description>Recent content on Vaibhav</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Apr 2019 20:26:25 -0400</lastBuildDate>
+    
+	    <atom:link href="https://MysteryVaibhav.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Improving Robustness of Machine Translation with Synthetic Noise</title>
+      <link>https://MysteryVaibhav.github.io/publication/robust_mtnt/</link>
+      <pubDate>Wed, 10 Apr 2019 20:26:25 -0400</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/publication/robust_mtnt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving What Cross-Modal Retrieval Models Learn through Object-Oriented Inter- and Intra-Modal Attention Networks</title>
+      <link>https://MysteryVaibhav.github.io/publication/cmr/</link>
+      <pubDate>Sun, 10 Mar 2019 20:26:25 -0400</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/publication/cmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Semantics to Understand Fake News</title>
+      <link>https://MysteryVaibhav.github.io/talk/cs/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/cs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Behavioral Markers in online Suicidal Videos</title>
+      <link>https://MysteryVaibhav.github.io/talk/mac/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Personal] DeepWalk regularized Graph Auto Encoder</title>
+      <link>https://MysteryVaibhav.github.io/talk/rwr/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/rwr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attend and Attack: Attention Guided Adversarial Attacks on Visual Question Answering Models</title>
+      <link>https://MysteryVaibhav.github.io/publication/attend/</link>
+      <pubDate>Mon, 10 Dec 2018 20:26:25 -0400</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/publication/attend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ad-hoc Video Search with Discrete and Continuous Representations</title>
+      <link>https://MysteryVaibhav.github.io/publication/trecvid/</link>
+      <pubDate>Wed, 10 Oct 2018 20:26:25 -0400</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/publication/trecvid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Attacks on VQA models</title>
+      <link>https://MysteryVaibhav.github.io/talk/aavqa/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/aavqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Translation models for Low Resource Languages</title>
+      <link>https://MysteryVaibhav.github.io/talk/mt/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/mt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-End Speech Recognition System for Indian Languages</title>
+      <link>https://MysteryVaibhav.github.io/talk/dl/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/dl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Bilingual Induction using GANs</title>
+      <link>https://MysteryVaibhav.github.io/talk/nn4nlp/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/nn4nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explored neural and non-neural models for gene expression profiling</title>
+      <link>https://MysteryVaibhav.github.io/talk/iml/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/iml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implemented HMM Word Alignment Model for en-fr translation</title>
+      <link>https://MysteryVaibhav.github.io/talk/anlp/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/anlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Personal] Space Shooter</title>
+      <link>https://MysteryVaibhav.github.io/talk/space_shooter/</link>
+      <pubDate>Sun, 25 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/space_shooter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delta Refactoring for Merge Conflict Avoidance</title>
+      <link>https://MysteryVaibhav.github.io/publication/merge/</link>
+      <pubDate>Sun, 10 Apr 2016 20:26:25 -0400</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/publication/merge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Personal] uMedia</title>
+      <link>https://MysteryVaibhav.github.io/talk/media/</link>
+      <pubDate>Sat, 26 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/talk/media/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
