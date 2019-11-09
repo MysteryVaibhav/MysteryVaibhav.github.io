@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Frederking on Vaibhav</title>
+    <link>https://MysteryVaibhav.github.io/authors/r.-frederking/</link>
+    <description>Recent content in R. Frederking on Vaibhav</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jun 2019 20:26:25 -0400</lastBuildDate>
+    
+	<atom:link href="https://MysteryVaibhav.github.io/authors/r.-frederking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RWR-GAE: Random Walk Regularization for Graph Auto Encoders</title>
+      <link>https://MysteryVaibhav.github.io/publication/rw_gae/</link>
+      <pubDate>Sun, 30 Jun 2019 20:26:25 -0400</pubDate>
+      
+      <guid>https://MysteryVaibhav.github.io/publication/rw_gae/</guid>
+      <description>Arxiv paper</description>
+    </item>
+    
+  </channel>
+</rss>
